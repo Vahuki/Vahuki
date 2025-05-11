@@ -26,9 +26,8 @@ Mình là một lập trình viên mới bắt đầu hành trình trở thành 
 
 ## 🚧 Dự án đang thực hiện
 
-- 🎮 **Game Caro**: Giao diện đẹp, có highlight ô thắng, chơi 2 người  
-- 🛒 **Trang bán hàng mini**:  Giao diện responsive, người dùng chỉ có thể đặt mua khi đã chọn sản phẩm qua checkbox
-- 🖼️ **Website CV cá nhân**: Trình bày thông tin cá nhân gọn gàng, dễ theo dõi  
+- 🛒 **E-commerce Website**:  Giao diện responsive, người dùng chỉ có thể đặt mua khi đã chọn sản phẩm qua checkbox
+- 🖼️ **Portfolio Website**: Trình bày thông tin cá nhân gọn gàng, dễ theo dõi  
 
 *👉 Mình vẫn đang cập nhật thêm các dự án, hãy ghé lại sau nhé!*
 
