@@ -22,16 +22,7 @@ Mình là một lập trình viên mới bắt đầu hành trình trở thành 
 - Tìm hiểu về cách triển khai web tĩnh hoặc dynamic  
 - Phát triển kỹ năng viết code sạch, dễ bảo trì  
 
----
 
-## 🚧 Dự án đang thực hiện
-
-- 🛒 **E-commerce Website**:  Giao diện responsive, người dùng chỉ có thể đặt mua khi đã chọn sản phẩm qua checkbox
-- 🖼️ **Portfolio Website**: Trình bày thông tin cá nhân gọn gàng, dễ theo dõi  
-
-*👉 Mình vẫn đang cập nhật thêm các dự án, hãy ghé lại sau nhé!*
-
----
 
 ## 📌 Mục tiêu cá nhân
 
