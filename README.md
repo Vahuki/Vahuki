@@ -24,7 +24,7 @@ Dưới đây là các công cụ và ngôn ngữ mình đang sử dụng cũng 
 
 - 🌐 **Web Cốt lõi**: `HTML5` (Semantic, chuẩn SEO), `CSS3` (Flexbox, Grid, Animation)
 - ⚙️ **Logic & Tương tác**: `JavaScript ES6+` (DOM, Event Listeners, LocalStorage)
-- ⚛️ **Framework/Thư viện**: `ReactJS` *(Đang tìm hiểu Component, Props, State)*
+- ⚛️ **Framework/Thư viện**: `ReactJS`
 - 🛠 **Công cụ & Workflow**: `Git`, `GitHub`, Thiết kế Responsive đa nền tảng
 
 ---
