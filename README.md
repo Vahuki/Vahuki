@@ -22,12 +22,7 @@
 
   <br/><br/><br/>
 
-  <!-- GitHub Metrics (Cùng height=165 để thẳng hàng tuyệt đối) -->
-  <h2>📈 GitHub Metrics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vahuki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c6ff&icon_color=0072ff&text_color=c9d1d9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vahuki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00c6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
 
-  <br/><br/><br/>
 
   <!-- Minimalist Contact Badges -->
   <h2>📫 Connect With Me</h2>
