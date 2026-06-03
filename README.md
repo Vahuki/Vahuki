@@ -1,42 +1,61 @@
-# 👋 Chào bạn, mình là Kiên!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Chào%20bạn,%20mình%20là%20Kiên!&fontSize=50&fontAlignY=38&desc=Front-end%20Developer%20Mới%20Bắt%20Đầu&descAlignY=58" alt="Header Banner" />
+</div>
 
-Mình là một lập trình viên mới bắt đầu hành trình trở thành **Full Stack Developer**. Hiện tại, mình đang tập trung học **Front-end Development**, xây dựng các dự án thực tế nhỏ để rèn luyện kỹ năng lập trình và tư duy thiết kế giao diện.
+<h3 align="center">
+  "Không cần quá giỏi từ đầu, chỉ cần mỗi ngày tốt hơn một chút." 🚀
+</h3>
 
----
-
-## 🖥️ Kỹ năng Front-end
-
-- ✅ **HTML5**: Sử dụng các thẻ semantic để xây dựng cấu trúc trang rõ ràng và chuẩn SEO  
-- ✅ **CSS3**: Thiết kế bố cục trang web với Flexbox, Grid, tạo hiệu ứng chuyển động đơn giản  
-- ✅ **JavaScript (ES6)**: Làm việc với DOM, xử lý sự kiện, localStorage, logic tương tác  
-- 🔄 **Git & GitHub**: Quản lý phiên bản và lưu trữ mã nguồn trên GitHub  
-- 🧠 **ReactJS** *(đang tìm hiểu)*: Làm quen với component, props, state và cách tổ chức code theo hướng component-based  
-- 📱 **Responsive Design**: Thiết kế giao diện hiển thị tốt trên mọi thiết bị
+<p align="center">
+  Mình là một lập trình viên đang trên hành trình trở thành <b>Full Stack Developer</b>. Hiện tại, mình tập trung mài giũa kỹ năng <b>Front-end</b> thông qua các dự án thực tế để rèn luyện cả về tư duy logic lẫn tính thẩm mỹ cho giao diện người dùng.
+</p>
 
 ---
 
-## 🌱 Mình đang học gì?
+### 🛠️ Kỹ Năng & Công Nghệ
 
-- Xây dựng project bằng HTML/CSS/JS thuần  
-- Làm quen với ReactJS  
-- Tìm hiểu về cách triển khai web tĩnh hoặc dynamic  
-- Phát triển kỹ năng viết code sạch, dễ bảo trì  
+Dưới đây là các công cụ và ngôn ngữ mình đang sử dụng cũng như không ngừng học hỏi mỗi ngày:
 
+<div align="center">
+  <br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" alt="Skill Icons" />
+  <br />
+</div>
 
-
-## 📌 Mục tiêu cá nhân
-
-> "Không cần quá giỏi từ đầu, chỉ cần mỗi ngày tốt hơn một chút."
-
-Mình muốn xây dựng những sản phẩm đơn giản nhưng hữu ích, có trải nghiệm người dùng tốt và dễ sử dụng. Mục tiêu của mình là trở thành một lập trình viên có thể làm việc độc lập hoặc trong đội nhóm, và có thể tham gia các dự án freelance hoặc công ty startup.
-
----
-
-## 📫 Kết nối với mình
-
-- GitHub: [github.com/Vahuki](https://github.com/Vahuki)  
-- Email: kienhuu975@gmail.com  
+- 🌐 **Web Cốt lõi**: `HTML5` (Semantic, chuẩn SEO), `CSS3` (Flexbox, Grid, Animation)
+- ⚙️ **Logic & Tương tác**: `JavaScript ES6+` (DOM, Event Listeners, LocalStorage)
+- ⚛️ **Framework/Thư viện**: `ReactJS` *(Đang tìm hiểu Component, Props, State)*
+- 🛠 **Công cụ & Workflow**: `Git`, `GitHub`, Thiết kế Responsive đa nền tảng
 
 ---
 
-Cảm ơn bạn đã ghé thăm GitHub của mình! Nếu bạn có lời khuyên, góp ý hoặc muốn kết nối trao đổi, mình rất vui được lắng nghe 😄
+### 🌱 Trọng Tâm Hiện Tại
+
+- 🏗 Xây dựng thành thạo các ứng dụng web với HTML/CSS/JS thuần trước khi tiến sâu vào hệ sinh thái React.
+- 🎨 Tạo ra những sản phẩm có giá trị thực tế, tối ưu trải nghiệm (UX) và thân thiện với người dùng (UI).
+- 🚀 Nắm bắt cách triển khai (deploy) web từ tĩnh đến động.
+- 🤝 Chuẩn bị tư duy và kỹ năng để làm việc độc lập hoặc kết hợp trong đội nhóm tại các công ty startup, dự án freelance.
+
+---
+
+### 📊 Thống Kê GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vahuki&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Vahuki's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vahuki&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150"/>
+</div>
+
+---
+
+### 📫 Kết Nối Với Mình
+
+Cảm ơn bạn đã ghé thăm! Nếu bạn có lời khuyên, góp ý hoặc muốn kết nối trao đổi, mình luôn sẵn sàng lắng nghe 😄
+
+<div align="center">
+  <a href="mailto:kienhuu975@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kienhuu975%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Vahuki">
+    <img src="https://img.shields.io/badge/GitHub-Vahuki-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
